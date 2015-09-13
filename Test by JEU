@@ -2,7 +2,10 @@
 
 int main()
 {
-  printf("Hello Myhandsome Guy.");
-  
+  int i;
+  for(i=0;i>-1;i++)
+    {
+  printf("Hello My beautiful Girl.¡±);
+    };
   return 0;
 }
