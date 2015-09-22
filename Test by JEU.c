@@ -2,7 +2,7 @@
 
 int main()
 {
-  int i;
+  int i = 0;//you should initial the value of i
   for(i=0;i>-1;i++)
     {
   printf("Hello My Beautiful Girl.\n");
